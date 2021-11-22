@@ -1,2 +1,2 @@
 # virtualizationproject
-Mongo DB and Mongo Express PODs And Services YAML for Kubernetes
+YAML to have PODs and services from Mongodb and Mongo Express on Kubernetes.
